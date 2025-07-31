@@ -1,0 +1,7 @@
+pandas
+numpy
+fastapi
+jupyter
+matplotlib
+scikit-learn
+pytest
